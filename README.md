@@ -15,7 +15,7 @@ The platform uses customers' purchase history to:
 
 **My contribution:** Software development as part of the project team.
 
-🔗 [View GitHub Repository](sabjoseph/discovery-gradhack)
+🔗 [View GitHub Repository](https://github.com/sabjoseph/discovery-gradhack)
 
 ---
 
