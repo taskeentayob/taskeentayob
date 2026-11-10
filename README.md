@@ -15,7 +15,7 @@ The platform uses customers' purchase history to:
 
 **My contribution:** Software development as part of the project team.
 
-🔗 [View GitHub Repository](https://github.com/sabjoseph/discovery-gradhack)
+🔗 [View Here](https://discovery-gradhack-ten.vercel.app/)
 
 ---
 
@@ -24,7 +24,7 @@ A digital platform designed to support and simplify stokvel management.
 
 **My contribution:** Software development as part of the project team.
 
-🔗 [View GitHub Repository](AbdullahAliCodes/Stokvel-SD)
+🔗 [View Here](https://stokvel-sd.vercel.app/)
 
 
 <!--
